@@ -1,0 +1,2 @@
+# spam-mail-detection-python-ml
+In recent years, spam detection has received significant attention in both business and academics. In this project, we have presented an approach for detecting whether a particular mail is spam or not. We have been successful in implementing this project and we can classify email as spam or ham. This project can also be used for detecting SMS as well as other text messages.
