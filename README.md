@@ -4,6 +4,8 @@ In recent years, spam detection has received significant attention in both busin
 
 
 OBJECTIVE
+
+
 The main objective of the Spam mail detector is:
 •	to give knowledge to the user about fake emails and relevant emails
 •	to classify whether the mail is spam or not.
